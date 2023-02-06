@@ -11,9 +11,9 @@ This is for educational purposes only
 
 ## Flashing firmware bin file:
 Documentation already written by [@Spacehuhn](https://github.com/SpacehuhnTech) ❤️
-- Compiling with ArduinoIDE](https://github.com/SpacehuhnTech/esp8266_deauther/wiki/Installation#compiling-using-arduino-ide)
-- Compiling with Esptool](https://github.com/SpacehuhnTech/esp8266_deauther/wiki/Installation#esptool)
-- Compiling with NodeToDeauther](https://github.com/SpacehuhnTech/esp8266_deauther/wiki/Installation#node2deauther)
+- Compiling with ArduinoIDE](https://github.com/SpacehuhnTech/esp8266_deauther/wiki/Installation#compiling-using-arduino-ide) 
+- Compiling with Esptool](https://github.com/SpacehuhnTech/esp8266_deauther/wiki/Installation#esptool) 
+- Compiling with NodeToDeauther](https://github.com/SpacehuhnTech/esp8266_deauther/wiki/Installation#node2deauther) 
 
 ## How to use start Deauther Dectector : 
 
@@ -28,4 +28,4 @@ Documentation already written by [@Spacehuhn](https://github.com/SpacehuhnTech) 
 ## Authors:
 
 - [@SpacehuhnTech](https://github.com/SpacehuhnTech) ❤️
-- @0xKEYSEX](https://github.com/0xKEYSEX)
+- @0xKEYSEX](https://github.com/0xKEYSEX) 
