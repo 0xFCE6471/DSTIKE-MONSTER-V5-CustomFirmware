@@ -364,18 +364,19 @@ const char D_SCAN[] PROGMEM = "SCAN";
 const char D_SHOW[] PROGMEM = "SELECT";
 const char D_ATTACK[] PROGMEM = "ATTACK";
 const char D_PACKET_MONITOR[] PROGMEM = "PACKET MONITOR";
+const char D_WIFI_STRENGTH[] PROGMEM = "WIFI STRENGTH";
 const char D_DEAUTHER_DETECTOR[] PROGMEM = "DEAUTHER DETECTOR";
 const char D_CLOCK[] PROGMEM = "CLOCK";
 const char D_CLOCK_DISPLAY[] PROGMEM = "CLOCK DISPLAY";
 const char D_CLOCK_SET[] PROGMEM = "SET CLOCK";
 
 // SNIFFER MENU
-const char D_DEAUTHER_DETECTOR_START[] PROGMEM = "Start Deauther Detector";
-const char D_DEAUTHER_DETECTOR_STOP[] PROGMEM = "Stop Deauther Detector";
+const char D_DEAUTHER_DETECTOR_START[] PROGMEM = "DEAUTHER Detector";
 // SCAN MENU
 const char D_SCAN_APST[] PROGMEM = "SCAN AP + ST";
 const char D_SCAN_AP[] PROGMEM = "SCAN APs";
 const char D_SCAN_ST[] PROGMEM = "SCAN Stations";
+const char D_WIFI_SIGNALS[] PROGMEM = "Wifi Signals";
 
 // SHOW MENU
 const char D_ACCESSPOINTS[] PROGMEM = "APs ";
@@ -423,6 +424,7 @@ const char ST_DESELECTED_ALL[] PROGMEM  = "Deselected all stations";
 
 // ===== ACCESS POINTS ===== //
 const char AP_HEADER[] PROGMEM = "[===== Access Points =====]";
+const char WIFI_STRENGTH[] PROGMEM = "[===== Wifi Strength =====]";
 const char AP_LIST_EMPTY[] PROGMEM = "AP list is empty :(";
 const char AP_NO_AP_SELECTED[] PROGMEM = "No APs selected";
 const char AP_TABLE_HEADER[] PROGMEM = "ID SSID                             Name             Ch RSSI Enc. Mac               Vendor   Selected";
