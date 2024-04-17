@@ -28,4 +28,4 @@ Documentation already written by [@Spacehuhn](https://github.com/SpacehuhnTech) 
 ## Authors:
 
 - [@SpacehuhnTech](https://github.com/SpacehuhnTech) ❤️
-- [@0xKEYSEX](https://github.com/0xKEYSEX) 
+- [@0xKEYSEX](https://github.com/0xFCE6471) 
